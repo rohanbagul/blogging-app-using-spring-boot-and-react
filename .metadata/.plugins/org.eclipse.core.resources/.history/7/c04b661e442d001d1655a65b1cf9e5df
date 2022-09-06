@@ -1,0 +1,5 @@
+package com.rohanbagul.blog.repository;
+
+public interface UserRepo {
+
+}

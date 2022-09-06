@@ -1,0 +1,5 @@
+package com.rohanbagul.blog.entity;
+
+public class User {
+
+}

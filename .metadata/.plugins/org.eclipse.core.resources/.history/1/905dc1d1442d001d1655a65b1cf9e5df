@@ -1,0 +1,8 @@
+package com.rohanbagul.blog.services;
+
+import com.rohanbagul.blog.entity.User;
+import com.rohanbagul.blog.payloads.UserDto;
+
+public interface UserService {
+	UserDto createUser(UserDto user);
+}

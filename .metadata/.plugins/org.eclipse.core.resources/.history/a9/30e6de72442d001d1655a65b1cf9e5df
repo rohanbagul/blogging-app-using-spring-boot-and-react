@@ -1,7 +1,0 @@
-package com.rohanbagul.blog.services;
-
-import com.rohanbagul.blog.entity.User;
-
-public interface UserService {
-	User createUser(User user);
-}

@@ -1,0 +1,5 @@
+package com.rohanbagul.blog.exceptions;
+
+public class ResourceNotFoundException {
+
+}

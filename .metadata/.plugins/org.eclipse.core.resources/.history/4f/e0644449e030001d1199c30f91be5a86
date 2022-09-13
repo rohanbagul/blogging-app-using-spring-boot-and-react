@@ -1,0 +1,5 @@
+package com.rohanbagul.blog.controller;
+
+public class PostController {
+
+}

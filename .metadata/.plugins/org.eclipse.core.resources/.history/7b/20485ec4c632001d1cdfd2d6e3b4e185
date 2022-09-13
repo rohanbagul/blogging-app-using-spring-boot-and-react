@@ -1,0 +1,5 @@
+package com.rohanbagul.blog.config;
+
+public class AppConstants {
+
+}
